@@ -16,9 +16,19 @@ To install a new plugin, you need to be an administrator.
 
 1. In the **Dashboard**, go to **Plugins** > **Add new**.
 2. In the search field, enter the name of the plugin or keyword (we will use the Responsive Cookie Consent plugin for this tutorial).
-3. A list of all matching plugins appears, click **Install now** on the selected plugin.
+   
+<p align="center">
+ <img src="https://github.com/OlaPom/tech-writing/blob/main/plugins_screenshots/plugin_search.jpeg" width="60%" height="60%">
+</p>
+
+4. A list of all matching plugins appears, click **Install now** on the selected plugin.
    Before installation, make sure the plugin is compatible with your WP version.
-4. After the installation is completed, click **Activate**.
+
+<p align="center">
+ <img src="https://github.com/OlaPom/tech-writing/blob/main/plugins_screenshots/plugin_version.jpeg" width="500" height="200">
+</p>
+
+5. After the installation is completed, click **Activate**.
 
 ## Configure
 
@@ -31,6 +41,10 @@ Once the plugin is active, you can start configuring the cookie consent bar.
 ## Update
 
 Remember to update the plugins regularly to ensure their proper functioning and the security of your website. You will see update notifications on the home screen.
+
+<p align="center">
+ <img src="https://github.com/OlaPom/tech-writing/blob/main/plugins_screenshots/plugin_notif.jpeg" width="60%" height="60%">
+</p>
 
 1. To see the list of all installed plugins, go to **Dashboard** > **Plugins**.
 2. To update the plugin, click on **update now**.
