@@ -6,7 +6,7 @@ In this tutorial, you will learn how to use plugins to enhance your WordPress we
 
 While every theme offers a certain amount of customization, it may not be enough to suit your needs. Plugins let you extend the functionality of your WordPress website without adding any code. With plugins, you can add features not available in your theme (e.g. a calendar) or get advanced customization options (e.g. custom fonts).
 
-Plugins are often used to integrate social media platforms, create cookie notifications, or manage SEO. Most plugins are free, but some also have paid versions. For available plugins, check out the [WordPress plugin directory](https://wordpress.org/plugins/).
+Plugins are commonly used to connect social media, show cookie notifications, or handle SEO. Most plugins are free, but some also have paid versions. For available plugins, check out the [WordPress plugin directory](https://wordpress.org/plugins/).
 
 By the end of this tutorial, you will be able to install and configure a plugin to create a cookie consent bar.
 
@@ -15,7 +15,7 @@ By the end of this tutorial, you will be able to install and configure a plugin 
 To install a new plugin, you need to be an administrator.
 
 1. In the **Dashboard**, go to **Plugins** > **Add new**.
-2. In the search field, enter the name of the plugin or keyword (we will use the Responsive Cookie Consent plugin for this tutorial).
+2. To find the plugin, type its name or keyword in the search field. For this tutorial, we'll use the [Responsive Cookie Consent](https://wordpress.org/plugins/responsive-cookie-consent/) plugin.
    
 <p align="center">
  <img src="https://github.com/OlaPom/tech-writing/blob/main/plugins_screenshots/plugin_search.jpeg" width="60%" height="60%">
@@ -40,7 +40,7 @@ Once the plugin is active, you can start configuring the cookie consent bar.
 
 ## Update
 
-Remember to update the plugins regularly to ensure their proper functioning and the security of your website. You will see update notifications on the home screen.
+To keep your website secure and working well, make sure you update the plugins regularly. You will see update notifications on the home screen.
 
 <p align="center">
  <img src="https://github.com/OlaPom/tech-writing/blob/main/plugins_screenshots/plugin_notif.jpeg" width="60%" height="60%">
