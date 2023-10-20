@@ -1,4 +1,4 @@
-# Electronic paper
+# How does electronic paper works?
 
 This article explains the basics of electronic paper technology and electrophoretic displays (EPD). The EPD was created by eInk Corporation in the late 1990s. 
 
@@ -21,3 +21,22 @@ Electronic paper displays are known for their ultra-low power consumption. EPDs 
 
 Electronic paper looks like ink on regular paper, using the same pigments as traditional printing. It also aims to give the reader the same readability experience.
 EPDs are reflective display. They don't emit any light, but reflect ambient light, like paper. The text can be read in direct sunlight and at a wide viewing angle. EPDs also cause less eyestrain, because they don't need to be back-illuminated.
+
+## Applications
+Electronic paper is widely known for its use in e-book readers. However, this technology has also been used in other industries. Especially those where low energy consumption and high readability play a vital role.
+
+Here are some examples:
+
+- digital signage
+
+- transport information system
+
+- menu boards
+
+- directional signs
+
+- shelf labels
+  
+## Further reading
+
+[How eInk developed full color e-paper](https://spectrum.ieee.org/how-e-ink-developed-full-color-epaper)
