@@ -10,7 +10,7 @@ Electronic ink is made of millions of microcapsules with pigment particles float
 EPDs use thin-film transistor technology. This technology controls the voltage for different parts of the display to create an image. Special software was designed to control voltage sequences using algorithms called waveforms. When the voltage is removed, the particles stay in their positions. EPDs can display static images without using electricity, making them very energy efficient.
 
 <p align="center">
- <img src="https://github.com/OlaPom/tech-writing/blob/main/eink.jpg" width="70%" height="70%">
+ <img src="eink.jpg" width="70%" height="70%">
 </p>
 
 ## Low power consumption
@@ -36,6 +36,10 @@ Here are some examples:
 - directional signs
 
 - shelf labels
+
+  <p align="center">
+ <img src="label.jpg" width="40%" height="40%">
+</p>
   
 ## Further reading
 
