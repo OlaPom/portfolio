@@ -1,4 +1,4 @@
-# How does electronic paper works?
+# How does electronic paper work?
 
 This article explains the basics of electronic paper technology and electrophoretic displays (EPD). The EPD was created by eInk Corporation in the late 1990s. 
 
